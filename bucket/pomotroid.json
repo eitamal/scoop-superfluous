@@ -10,8 +10,6 @@
         }
     },
     "shortcuts": [["pomotroid.exe", "Pomotroid"]],
-    "env_add_path": ["", ""],
-    "persist": ["", ""],
     "checkver": {
         "github": "https://github.com/Splode/pomotroid"
     },
