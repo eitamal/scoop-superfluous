@@ -9,12 +9,7 @@
             "hash": "60f1d289f372f2ffd072984279807034aa525e2a49c63c7cd9ddde1095f087c4"
         }
     },
-    "shortcuts": [
-        [
-            "pomotroid.exe",
-            "Pomotroid"
-        ]
-    ],
+    "shortcuts": [["pomotroid.exe", "Pomotroid"]],
     "env_add_path": ["", ""],
     "persist": ["", ""],
     "checkver": {
