@@ -1,15 +1,20 @@
 {
-    "version": "1.5.1",
+    "version": "1.5.2",
     "description": "A simple and visually-pleasing Pomodoro timer",
     "homepage": "https://pomotroid.app/",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Splode/pomotroid/releases/download/v1.5.1/pomotroid.exe",
-            "hash": "60f1d289f372f2ffd072984279807034aa525e2a49c63c7cd9ddde1095f087c4"
+            "url": "https://github.com/Splode/pomotroid/releases/download/v1.5.2/pomotroid.exe",
+            "hash": "889265014039edcc5b1d32bdfb9cf4e9f1686bbdc949dcf55d419036ad9c961a"
         }
     },
-    "shortcuts": [["pomotroid.exe", "Pomotroid"]],
+    "shortcuts": [
+        [
+            "pomotroid.exe",
+            "Pomotroid"
+        ]
+    ],
     "checkver": {
         "github": "https://github.com/Splode/pomotroid"
     },
